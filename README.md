@@ -8,7 +8,8 @@ There are not exact solutions.
 Instead, you can setup enumerous Nx for WENO-Z as exact solution. 
 
 
-##Reference
+## Reference   
+
 [1] G.S. Jiang, C.W. Shu, Efficient implementation of weighted ENO schemes, J. Journal of Computational Physics, 1996, 126:202-228   
 [2] A.K. Henrick, T.D. Aslam, J.M. Powers, Mapped weighted essentially non-oscillatory schemes:     
 achieving optimal order near critical points, J. Journal of Computational Physics, 2005, 207:542-567
